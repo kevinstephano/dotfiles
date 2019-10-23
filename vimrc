@@ -35,6 +35,10 @@ set hlsearch            " highlight matches
 
 set paste
 
+"""" Enable powerline fonts in airline
+
+let g:airline_powerline_fonts = 1
+
 """" Pretty Colors
 "set termguicolors
 set background=dark
