@@ -44,4 +44,7 @@ let g:airline_powerline_fonts = 1
 set background=dark
 
 " put colorscheme files in ~/.vim/colors/
-" colorscheme gruvbox     " good colorschemes: murphy, slate, molokai, badwolf, solarized
+let g:solarized_termcolors=256
+let g:solarized_contrast="normal"
+let g:solarized_visibility="high"
+colorscheme solarized
