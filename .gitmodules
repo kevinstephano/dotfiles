@@ -1,3 +1,6 @@
 [submodule "vim/pack/default/start/vim-tmux-navigator"]
 	path = vim/pack/default/start/vim-tmux-navigator
 	url = https://github.com/christoomey/vim-tmux-navigator.git
+[submodule "vim/pack/default/start/vim-airline"]
+	path = vim/pack/default/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
