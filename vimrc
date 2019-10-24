@@ -47,4 +47,6 @@ set background=dark
 let g:solarized_termcolors=256
 let g:solarized_contrast="normal"
 let g:solarized_visibility="high"
-colorscheme solarized
+
+let g:gruvbox_termcolors=256
+colorscheme gruvbox
