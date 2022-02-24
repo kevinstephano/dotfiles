@@ -35,18 +35,9 @@ set hlsearch            " highlight matches
 
 set paste
 
-"""" Enable powerline fonts in airline
+"""" Pretty Colors -- Use gruvbox dark theme
 
-let g:airline_powerline_fonts = 1
-
-"""" Pretty Colors
-"set termguicolors
 set background=dark
-
-" put colorscheme files in ~/.vim/colors/
-let g:solarized_termcolors=256
-let g:solarized_contrast="normal"
-let g:solarized_visibility="high"
 
 let g:gruvbox_termcolors=256
 colorscheme gruvbox
